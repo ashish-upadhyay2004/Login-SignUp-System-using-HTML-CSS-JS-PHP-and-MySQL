@@ -69,5 +69,5 @@ This project is open-source and available under the MIT License.
 **Contributions & Issues:** Feel free to contribute or raise issues for improvements!
 
 ### **Author**
-[ASHISH UPADHYAY] - GitHub: (https://github.com/ashish-upadhyay2004)
+ASHISH UPADHYAY - GitHub: (https://github.com/ashish-upadhyay2004)
 
